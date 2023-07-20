@@ -4,6 +4,7 @@ import "./index.css";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Main from "./layout/Main";
 import Home from "./Home/Home";
+import DetailsPage from "./DetailsPage/DetailsPage";
 
 const router = createBrowserRouter([
   {
@@ -13,6 +14,12 @@ const router = createBrowserRouter([
       {
         path: "/",
         element: <Home></Home>,
+      },
+      {
+        path: "/details/:id",
+        element: <DetailsPage></DetailsPage>,
+        loader: ({ params }) =>
+          fetch(`http://localhost:5000/allMovies/${params.id}`),
       },
     ],
   },

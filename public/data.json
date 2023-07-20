@@ -1,0 +1,392 @@
+[
+  {
+    "title": "Inception",
+    "year": 2010,
+    "genre": "Science Fiction, Action, Adventure",
+    "director": "Christopher Nolan",
+    "actors": [
+      {
+        "name": "Leonardo DiCaprio",
+        "character": "Dominic Cobb",
+        "actorPhoto": "https://images.news18.com/ibnlive/uploads/2022/11/leonardo-dicaprio.jpg"
+      },
+      {
+        "name": "Joseph Gordon-Levitt",
+        "character": "Arthur",
+        "actorPhoto": "https://static.wikia.nocookie.net/moviepedia/images/e/eb/Joseph_Gordon-Levitt.jpeg/revision/latest/thumbnail/width/360/height/450?cb=20140212134142&path-prefix=de"
+      },
+      {
+        "name": "Ellen Page",
+        "character": "Ariadne",
+        "actorPhoto": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-18551-20140215-ellenpage-1800-1392478410.jpg?w=1024"
+      },
+      {
+        "name": "Tom Hardy",
+        "character": "Eames",
+        "actorPhoto": "https://flxt.tmsimg.com/assets/269411_v9_bd.jpg"
+      },
+      {
+        "name": "Marion Cotillard",
+        "character": "Mal",
+        "actorPhoto": "https://cdn.britannica.com/19/124319-050-F8882EF0/Marion-Cotillard.jpg"
+      }
+    ],
+    "plot": "Inception follows a skilled thief, Dominic Cobb, who specializes in entering the dreams of others to steal their secrets. He is offered a chance to regain his old life as payment for a task considered impossible: planting an idea in a person's subconscious, a process called inception.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjExMjkwNTQ0Nl5BMl5BanBnXkFtZTcwNTY0OTk1Mw@@._V1_.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=YoHD9XEInc0",
+    "runtime": "2h 28min",
+    "rating": 8.8,
+    "imdbUrl": "https://www.imdb.com/title/tt1375666/"
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "genre": "Drama",
+    "director": "Frank Darabont",
+    "actors": [
+      {
+        "name": "Tim Robbins",
+        "character": "Andy Dufresne",
+        "actorPhoto": "https://m.media-amazon.com/images/M/MV5BMTI1OTYxNzAxOF5BMl5BanBnXkFtZTYwNTE5ODI4._V1_.jpg"
+      },
+      {
+        "name": "Morgan Freeman",
+        "character": "Ellis Boyd 'Red' Redding",
+        "actorPhoto": "https://cdn.britannica.com/40/144440-050-DA828627/Morgan-Freeman.jpg"
+      },
+      {
+        "name": "Bob Gunton",
+        "character": "Warden Norton",
+        "actorPhoto": "https://m.media-amazon.com/images/M/MV5BMTQ2NTU1NzU5Nl5BMl5BanBnXkFtZTcwODU3NjI2NA@@._V1_.jpg"
+      },
+      {
+        "name": "William Sadler",
+        "character": "Heywood",
+        "actorPhoto": "https://m.media-amazon.com/images/M/MV5BMTA1NjU3NDg1MTheQTJeQWpwZ15BbWU2MDI4OTcxMw@@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "name": "Clancy Brown",
+        "character": "Captain Hadley",
+        "actorPhoto": "https://m.media-amazon.com/images/M/MV5BMTUxODY3NjAzMF5BMl5BanBnXkFtZTcwMTQ5MjYwNg@@._V1_FMjpg_UX1000_.jpg"
+      }
+    ],
+    "plot": "The Shawshank Redemption tells the story of banker Andy Dufresne, who is sentenced to life in Shawshank State Penitentiary for the murder of his wife and her lover, despite his claims of innocence. Over the following two decades, he forms a close friendship with a fellow inmate, Ellis Boyd 'Red' Redding, and finds solace and eventual redemption through acts of common decency.",
+    "posterUrl": "https://c8.alamy.com/comp/BKH04B/the-shawshank-redemption-1994-poster-shwk-003vs-BKH04B.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=NmzuHjWmXOc",
+    "runtime": "2h 22min",
+    "rating": 9.3,
+    "imdbUrl": "https://www.imdb.com/title/tt0111161/"
+  },
+  {
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genre": "Action, Crime, Drama",
+    "director": "Christopher Nolan",
+    "actors": [
+      {
+        "name": "Christian Bale",
+        "character": "Bruce Wayne / Batman",
+        "actorPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRENhEEG5FVhlHDHmdx75PmpqECYlZTr52icw&usqp=CAU"
+      },
+      {
+        "name": "Heath Ledger",
+        "character": "Joker",
+        "actorPhoto": "https://hips.hearstapps.com/hmg-prod/images/heath_ledger_getty_images_photo_bob_riha_jr_wireimage_116948085.jpg"
+      },
+      {
+        "name": "Gary Oldman",
+        "character": "Jim Gordon",
+        "actorPhoto": "https://static.theprint.in/wp-content/uploads/2022/11/ANI-20221120120214.jpg"
+      },
+      {
+        "name": "Aaron Eckhart",
+        "character": "Harvey Dent / Two-Face",
+        "actorPhoto": "https://m.media-amazon.com/images/M/MV5BMTc4MTAyNzMzNF5BMl5BanBnXkFtZTcwMzQ5MzQzMg@@._V1_.jpg"
+      },
+      {
+        "name": "Maggie Gyllenhaal",
+        "character": "Rachel Dawes",
+        "actorPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR65IGBYDYJywUnEP5li6e1gzug8atEokcz--WuBapu6Tltelza9kS7nMLn3PnCFsDBbTc&usqp=CAU"
+      }
+    ],
+    "plot": "In The Dark Knight, Batman sets out to dismantle the remaining criminal organizations in Gotham City following the events of Batman Begins. However, he faces a formidable foe in the anarchic and chaotic criminal mastermind known as the Joker, who seeks to plunge Gotham into anarchy.",
+    "posterUrl": "https://w0.peakpx.com/wallpaper/777/970/HD-wallpaper-batman-movie-the-dark-knight-the-dark-knight-rises.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=LDG9bisJEaI",
+    "runtime": "2h 32min",
+    "rating": 9.0,
+    "imdbUrl": "https://www.imdb.com/title/tt0468569/"
+  },
+  {
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "genre": "Crime, Drama",
+    "director": "Quentin Tarantino",
+    "actors": [
+      {
+        "name": "John Travolta",
+        "character": "Vincent Vega",
+        "actorPhoto": "https://m.media-amazon.com/images/M/MV5BMTMyMjZlYzgtZWRjMC00OTRmLTllZTktMmM1ODVmNjljMTQyXkEyXkFqcGdeQXVyMTExNzQ3MzAw._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "name": "Samuel L. Jackson",
+        "character": "Jules Winnfield",
+        "actorPhoto": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-648731684.jpg"
+      },
+      {
+        "name": "Uma Thurman",
+        "character": "Mia Wallace",
+        "actorPhoto": "https://m.media-amazon.com/images/M/MV5BMjMxNzk1MTQyMl5BMl5BanBnXkFtZTgwMDIzMDEyMTE@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "name": "Bruce Willis",
+        "character": "Butch Coolidge",
+        "actorPhoto": "https://m.media-amazon.com/images/M/MV5BMjA0MjMzMTE5OF5BMl5BanBnXkFtZTcwMzQ2ODE3Mw@@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "name": "Ving Rhames",
+        "character": "Marsellus Wallace",
+        "actorPhoto": "https://m.media-amazon.com/images/M/MV5BMTMwMTgyMzc4MV5BMl5BanBnXkFtZTYwNjE5Mjk1._V1_FMjpg_UX1000_.jpg"
+      }
+    ],
+    "plot": "Pulp Fiction weaves together multiple interconnected stories of crime, violence, and redemption in Los Angeles. The film explores the lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits.",
+    "posterUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/608350fd-1e73-4918-9953-0a7eb2e8e954/d5h24sj-639a66d2-7c84-443b-ba82-b1bad6dd9f5e.jpg/v1/fill/w_702,h_992,q_75,strp/pulp_fiction_poster_by_nrobinson77_d5h24sj-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTkyIiwicGF0aCI6IlwvZlwvNjA4MzUwZmQtMWU3My00OTE4LTk5NTMtMGE3ZWIyZThlOTU0XC9kNWgyNHNqLTYzOWE2NmQyLTdjODQtNDQzYi1iYTgyLWIxYmFkNmRkOWY1ZS5qcGciLCJ3aWR0aCI6Ijw9NzAyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.5oxpOaegioUo0eam4ueek5cKP18kwETJdXEPF8NI7js",
+    "trailerUrl": "https://www.youtube.com/watch?v=s7EdQ4FqbhY",
+    "runtime": "2h 34min",
+    "rating": 8.9,
+    "imdbUrl": "https://www.imdb.com/title/tt0110912/"
+  },
+  {
+    "title": "Forrest Gump",
+    "year": 1994,
+    "genre": "Drama, Romance",
+    "director": "Robert Zemeckis",
+    "actors": [
+      {
+        "name": "Tom Hanks",
+        "character": "Forrest Gump",
+        "actorPhoto": "https://m.media-amazon.com/images/M/MV5BMTQ2MjMwNDA3Nl5BMl5BanBnXkFtZTcwMTA2NDY3NQ@@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "name": "Robin Wright",
+        "character": "Jenny Curran",
+        "actorPhoto": "https://m.media-amazon.com/images/M/MV5BMTU0NTc4MzEyOV5BMl5BanBnXkFtZTcwODY0ODkzMQ@@._V1_.jpg"
+      },
+      {
+        "name": "Gary Sinise",
+        "character": "Lt. Dan Taylor",
+        "actorPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Gary_Sinise_2011_%28cropped%29.jpg/220px-Gary_Sinise_2011_%28cropped%29.jpg"
+      },
+      {
+        "name": "Sally Field",
+        "character": "Mrs. Gump",
+        "actorPhoto": "https://www.usmagazine.com/wp-content/uploads/2023/02/Sally-Field-Through-the-Years-20232.jpg?quality=86&strip=all"
+      },
+      {
+        "name": "Haley Joel Osment",
+        "character": "Young Forrest Gump",
+        "actorPhoto": "https://flxt.tmsimg.com/assets/67918_v9_bb.jpg"
+      }
+    ],
+    "plot": "Forrest Gump follows the life journey of a slow-witted but kind-hearted and athletically-talented man named Forrest Gump. He witnesses several defining historical events in the 20th century while steadfastly loving and protecting those closest to him.",
+    "posterUrl": "https://m.media-amazon.com/images/I/717C4+q+CrL.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=XHhAG-YLdk8",
+    "runtime": "2h 22min",
+    "rating": 8.8,
+    "imdbUrl": "https://www.imdb.com/title/tt0109830/"
+  },
+  {
+    "title": "Titanic",
+    "year": 1997,
+    "genre": "Romance, Drama",
+    "director": "James Cameron",
+    "actors": [
+      {
+        "name": "Leonardo DiCaprio",
+        "character": "Jack Dawson",
+        "actorPhoto": "https://images.news18.com/ibnlive/uploads/2022/11/leonardo-dicaprio.jpg"
+      },
+      {
+        "name": "Kate Winslet",
+        "character": "Rose DeWitt Bukater",
+        "actorPhoto": "https://hips.hearstapps.com/hmg-prod/images/kate-winslet-9534599-1-402.jpg"
+      },
+      {
+        "name": "Billy Zane",
+        "character": "Caledon 'Cal' Hockley",
+        "actorPhoto": "https://m.media-amazon.com/images/M/MV5BMjE0OTk0OTI0OF5BMl5BanBnXkFtZTcwNjY0NTk1Nw@@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "name": "Kathy Bates",
+        "character": "Molly Brown",
+        "actorPhoto": "https://images.mubicdn.net/images/cast_member/23258/cache-725-1595703849/image-w856.jpg?size=800x"
+      },
+      {
+        "name": "Frances Fisher",
+        "character": "Ruth DeWitt Bukater",
+        "actorPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW6M9Why2oN7pWP1eXdLh4HAyDrXQCEdrrlw&usqp=CAU"
+      }
+    ],
+    "plot": "Titanic tells the tragic love story of two young passengers on the ill-fated RMS Titanic during its maiden voyage from Southampton to New York City. The romantic drama unfolds against the backdrop of the ship's impending collision with an iceberg.",
+    "posterUrl": "https://i.ebayimg.com/images/g/2F8AAOSwDftjUkKB/s-l1200.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=CHekzSiZjrY",
+    "runtime": "3h 15min",
+    "rating": 7.8,
+    "imdbUrl": "https://www.imdb.com/title/tt0120338/"
+  },
+  {
+    "title": "Doctor Strange",
+    "year": 2016,
+    "genre": "Action, Adventure, Fantasy",
+    "director": "Scott Derrickson",
+    "actors": [
+      {
+        "name": "Benedict Cumberbatch",
+        "character": "Dr. Stephen Strange / Doctor Strange",
+        "actorPhoto": "https://m.media-amazon.com/images/M/MV5BMjE0MDkzMDQwOF5BMl5BanBnXkFtZTgwOTE1Mjg1MzE@._V1_.jpg"
+      },
+      {
+        "name": "Chiwetel Ejiofor",
+        "character": "Karl Mordo",
+        "actorPhoto": "https://m.media-amazon.com/images/M/MV5BNzA5MDEyMTY3Nl5BMl5BanBnXkFtZTgwODQ0MjcxMDE@._V1_.jpg"
+      },
+      {
+        "name": "Rachel McAdams",
+        "character": "Christine Palmer",
+        "actorPhoto": "https://upload.wikimedia.org/wikipedia/commons/1/19/Rachel_McAdams_3_%28cropped%29.jpg"
+      },
+      {
+        "name": "Benedict Wong",
+        "character": "Wong",
+        "actorPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Benedict_Wong_%2828352087500%29_%28cropped%29.jpg/1200px-Benedict_Wong_%2828352087500%29_%28cropped%29.jpg"
+      },
+      {
+        "name": "Mads Mikkelsen",
+        "character": "Kaecilius",
+        "actorPhoto": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Mads_Mikkelsen_Cannes_2013_2.jpg"
+      }
+    ],
+    "plot": "Doctor Strange follows the journey of Dr. Stephen Strange, a brilliant but arrogant neurosurgeon who seeks healing after a car accident. In the process, he discovers the hidden world of mysticism and alternate dimensions, becoming the Sorcerer Supreme tasked with protecting reality.",
+    "posterUrl": "https://cdnb.artstation.com/p/assets/images/images/021/449/133/large/narinder-singh-docter-strange.jpg?1571734835",
+    "trailerUrl": "https://www.youtube.com/watch?v=h7gvFravm4A",
+    "runtime": "1h 55min",
+    "rating": 7.5,
+    "imdbUrl": "https://www.imdb.com/title/tt1211837/"
+  },
+  {
+    "title": "Avengers: Infinity War",
+    "year": 2018,
+    "genre": "Action, Adventure, Sci-Fi",
+    "director": "Anthony Russo, Joe Russo",
+    "actors": [
+      {
+        "name": "Robert Downey Jr.",
+        "character": "Tony Stark / Iron Man",
+        "actorPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Robert_Downey_Jr_2014_Comic_Con_%28cropped%29.jpg/1200px-Robert_Downey_Jr_2014_Comic_Con_%28cropped%29.jpg"
+      },
+      {
+        "name": "Chris Hemsworth",
+        "character": "Thor",
+        "actorPhoto": "https://cdn.britannica.com/92/215392-050-96A4BC1D/Australian-actor-Chris-Hemsworth-2019.jpg"
+      },
+      {
+        "name": "Mark Ruffalo",
+        "character": "Bruce Banner / Hulk",
+        "actorPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2bFT1NT2RcP8bPGz_An7pxYTAU-rVUrVqbg&usqp=CAU"
+      },
+      {
+        "name": "Chris Evans",
+        "character": "Steve Rogers / Captain America",
+        "actorPhoto": "https://upload.wikimedia.org/wikipedia/commons/3/33/Mark_Kassen%2C_Tony_C%C3%A1rdenas_and_Chris_Evans_%28cropped%29.jpg"
+      },
+      {
+        "name": "Scarlett Johansson",
+        "character": "Natasha Romanoff / Black Widow",
+        "actorPhoto": "https://m.media-amazon.com/images/M/MV5BMTM3OTUwMDYwNl5BMl5BanBnXkFtZTcwNTUyNzc3Nw@@._V1_FMjpg_UX1000_.jpg"
+      }
+    ],
+    "plot": "Avengers: Infinity War brings together the Avengers and their allies to face the powerful and ruthless Thanos, who seeks to collect all six Infinity Stones and use them to bring balance to the universe, even if it means wiping out half of all life.",
+    "posterUrl": "https://c8.alamy.com/comp/MHGFY9/avengers-infinity-war-2018-directed-by-anthony-russo-and-joe-russo-and-starring-robert-downey-jr-chris-evans-mark-ruffalo-chris-hemsworth-and-scarlett-johansson-the-avengers-team-up-with-heroes-across-the-marvel-universe-to-stop-thanos-collecting-the-remaining-infinity-stones-and-destroying-earth-MHGFY9.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=B65hW9YYY5A",
+    "runtime": "2h 29min",
+    "rating": 8.4,
+    "imdbUrl": "https://www.imdb.com/title/tt4154756/"
+  },
+  {
+    "title": "Justice League",
+    "year": 2017,
+    "genre": "Action, Adventure, Fantasy",
+    "director": "Zack Snyder",
+    "actors": [
+      {
+        "name": "Ben Affleck",
+        "character": "Bruce Wayne / Batman",
+        "actorPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThN7831tSet1s0LnTtuBtoDraa0i5fMLWlmQ&usqp=CAU"
+      },
+      {
+        "name": "Gal Gadot",
+        "character": "Diana Prince / Wonder Woman",
+        "actorPhoto": "https://wallpapers.com/images/hd/gal-gadot-as-wonder-woman-prjdep1m7z9naccj.jpg"
+      },
+      {
+        "name": "Henry Cavill",
+        "character": "Clark Kent / Superman",
+        "actorPhoto": "https://i.guim.co.uk/img/media/d74fb48312da07d3419482b1a22f5eb1cb04e4f1/0_103_1532_919/master/1532.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=d8dc302f3f524c92950d5c8b5d493f0a"
+      },
+      {
+        "name": "Ezra Miller",
+        "character": "Barry Allen / The Flash",
+        "actorPhoto": "https://imagez.tmz.com/image/4f/4by3/2022/08/16/4f293ce6c44e4bf4814c358eca60ac51_md.jpg"
+      },
+      {
+        "name": "Jason Momoa",
+        "character": "Arthur Curry / Aquaman",
+        "actorPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Ze7DYV1MZIiKV4Q-BZa96eL4FltogHeeH8Bw-gBbGF8MaAxXuDtr-qMXUT6qrrSPlzA&usqp=CAU"
+      }
+    ],
+    "plot": "Justice League unites DC's most iconic superheroes—Batman, Wonder Woman, Superman, The Flash, Aquaman, and Cyborg—to protect the world from the catastrophic threat of Steppenwolf and his army of parademons.",
+    "posterUrl": "https://i.redd.it/al1rq107iwc51.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=r9-DM9uBtVI",
+    "runtime": "2h",
+    "rating": 6.1,
+    "imdbUrl": "https://www.imdb.com/title/tt0974015/"
+  },
+  {
+    "title": "Joker",
+    "year": 2019,
+    "genre": "Crime, Drama, Thriller",
+    "director": "Todd Phillips",
+    "actors": [
+      {
+        "name": "Joaquin Phoenix",
+        "character": "Arthur Fleck / Joker",
+        "actorPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWDLkoJQraSCQJJzuA5ywuMkO23ZiisTi1LA&usqp=CAU"
+      },
+      {
+        "name": "Robert De Niro",
+        "character": "Murray Franklin",
+        "actorPhoto": "https://upload.wikimedia.org/wikipedia/commons/2/25/Robert_De_Niro_Cannes_2016_2.jpg"
+      },
+      {
+        "name": "Zazie Beetz",
+        "character": "Sophie Dumond",
+        "actorPhoto": "https://upload.wikimedia.org/wikipedia/commons/6/66/Zazie_Beetz_by_Gage_Skidmore_%28cropped%29.jpg"
+      },
+      {
+        "name": "Frances Conroy",
+        "character": "Penny Fleck",
+        "actorPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Frances_Conroy_at_PaleyFest_2014_-_13491478183.jpg/800px-Frances_Conroy_at_PaleyFest_2014_-_13491478183.jpg"
+      },
+      {
+        "name": "Brett Cullen",
+        "character": "Thomas Wayne",
+        "actorPhoto": "https://image.tmdb.org/t/p/w235_and_h235_face/4P6TsRcnr9MRbXlCdHitulGM5LT.jpg"
+      }
+    ],
+    "plot": "Joker explores the origin of the infamous DC Comics supervillain, delving into the life of Arthur Fleck, a failed stand-up comedian who descends into madness and becomes the maniacal Joker, a symbol of anarchy and chaos.",
+    "posterUrl": "https://m.media-amazon.com/images/I/71KPOvu-hOL.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=ueBcdUPzweY",
+    "runtime": "2h 2min",
+    "rating": 8.4,
+    "imdbUrl": "https://www.imdb.com/title/tt7286456/"
+  }
+]
