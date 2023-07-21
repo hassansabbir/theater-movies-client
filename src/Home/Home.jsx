@@ -1,25 +1,33 @@
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
+import Pagination from "./Pagination";
 
 const Home = () => {
   const [movies, setMovies] = useState([]);
+  const [currentPage, setCurrentPage] = useState(2);
+  const [cardPerPage, setCardPerPage] = useState(5);
+
   useEffect(() => {
     fetch("http://localhost:5000/allMovies")
       .then((res) => res.json())
       .then((data) => setMovies(data));
   }, []);
 
+  const lastCardIndex = currentPage * cardPerPage;
+  const firstCardIndex = lastCardIndex - cardPerPage;
+  const currentMovies = movies.slice(firstCardIndex, lastCardIndex);
+
   return (
-    <div className="max-w-7xl mx-auto">
+    <div>
       <h2 className="text-center text-4xl font-bold my-10">Top Movies</h2>
-      <div className="grid grid-cols-4 gap-5">
-        {movies.map((movie) => (
+      <div className="grid grid-cols-5 gap-5">
+        {currentMovies.map((movie) => (
           <div
-            className="border shadow-lg hover:shadow-2xl rounded-2xl flex flex-col h-[730px]"
+            className="border shadow-lg hover:shadow-2xl rounded-2xl flex flex-col h-[650px]"
             key={movie._id}
           >
             <img
-              className="h-[450px] w-[350px] rounded-2xl"
+              className="h-[350px] rounded-2xl"
               src={movie.posterUrl}
               alt={movie.title}
             />
@@ -37,6 +45,12 @@ const Home = () => {
           </div>
         ))}
       </div>
+      <Pagination
+        totalCards={movies.length}
+        cardPerPage={cardPerPage}
+        setCurrentPage={setCurrentPage}
+        currentPage={setCardPerPage}
+      ></Pagination>
     </div>
   );
 };
