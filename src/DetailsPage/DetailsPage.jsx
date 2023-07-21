@@ -2,21 +2,10 @@ import { Link, useLoaderData } from "react-router-dom";
 
 const DetailsPage = () => {
   const data = useLoaderData();
-  const {
-    title,
-    year,
-    genre,
-    director,
-    actors,
-    plot,
-    posterUrl,
-    trailerUrl,
-    rating,
-    imdbUrl,
-  } = data;
+  const { title, year, director, actors, plot, posterUrl } = data;
 
   return (
-    <div className="max-w-7xl mx-auto my-20">
+    <div className="my-20">
       <Link to="/">
         <button className="btn btn-neutral">Go Back</button>
       </Link>
